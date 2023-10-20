@@ -1,4 +1,4 @@
-# Image to text
+# Image to chars
 ## First you have to cloning the repository and install the dependencies:
 ```bash
 git clone https://github.com/AVISEngine/AVIS-Engine-Python-API.git
