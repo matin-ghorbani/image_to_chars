@@ -1,7 +1,7 @@
 # Image to chars
 ## First you have to cloning the repository and install the dependencies:
 ```bash
-git clone https://github.com/matingh10/image_to_chars.git
+git clone https://github.com/matin-ghorbani/image_to_chars.git
 ```
 ```bash
 pip install requirements.txt
